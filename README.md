@@ -1,6 +1,6 @@
 ### Balance bot
 
-Get ethereum balances of a given account.
+Get ethereum balances of ethereum mainnet accounts.
 
 Adds the `/balance <addresses>` slash command.
 
